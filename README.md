@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my professional portfolio website! Watch this space...👀**
 
-- 🌱 I’m currently learning **to master my current tech stack. Next up I'll be learning React!**
+- 🌱 I’m currently learning **Tailwind!**
 
 - 😄 Pronouns: **she/her**
 
